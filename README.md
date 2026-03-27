@@ -180,5 +180,3 @@ Built for the Notion Custom Agent Buildathon — March 2026
 - Send a kickoff email draft directly from Notion
 - Weekly progress summary auto-posted to the client page
 - Multi-currency invoice support
-- Weekly progress summary auto-posted to the client page
-- Multi-currency invoice support
