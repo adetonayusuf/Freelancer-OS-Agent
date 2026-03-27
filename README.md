@@ -8,7 +8,7 @@
 
 My name is Adetona Yusuf Olalekan. I'm a freelancer based in Lagos, Nigeria.
 
-A few months ago, I landed three clients in the same week. It should have been a great week. Instead, I spent most of it doing admin — copying client names into spreadsheets, creating project folders, writing kickoff emails, drafting invoice templates, and setting up task boards. By the time I actually started the work, I was already exhausted and behind.
+A few months ago, I landed three clients in the same week. It should have been a great week. Instead, I spent most of it doing admin, copying client names into spreadsheets, creating project folders, writing kickoff emails, drafting invoice templates, and setting up task boards. By the time I actually started the work, I was already exhausted and behind.
 
 The worst part? I did this for every single client. The same steps, in the same order, every time. There was no reason a human should be doing this.
 
@@ -31,7 +31,7 @@ And within seconds, your Notion workspace is fully set up:
 | **Invoice entry** | Draft invoice created with the correct amount and due date |
 | **Kickoff checklist** | 5 onboarding action items categorised as Admin, Comms, Legal, and Setup |
 
-Everything is linked together. Click a deliverable — it shows which client it belongs to. Click an invoice — same thing. Your entire operation is connected from day one.
+Everything is linked together. Click a deliverable - it shows which client it belongs to. Click an invoice - same thing. Your entire operation is connected from day one.
 
 ---
 
@@ -158,7 +158,7 @@ Freelancer OS Agent eliminates that entire process. One sentence. Fully set up. 
 
 ## Who It's For
 
-Any freelancer, consultant, or independent professional who manages clients in Notion and wants to eliminate manual onboarding forever. Designers, developers, writers, marketers, consultants — anyone who has ever copied a client name into a spreadsheet for the hundredth time.
+Any freelancer, consultant, or independent professional who manages clients in Notion and wants to eliminate manual onboarding forever. Designers, developers, writers, marketers, consultants - anyone who has ever copied a client name into a spreadsheet for the hundredth time.
 
 ---
 
@@ -176,5 +176,7 @@ Built for the Notion Custom Agent Buildathon — March 2026
 
 - Auto-generate a client contract from the brief
 - Send a kickoff email draft directly from Notion
+- Weekly progress summary auto-posted to the client page
+- Multi-currency invoice support
 - Weekly progress summary auto-posted to the client page
 - Multi-currency invoice support
