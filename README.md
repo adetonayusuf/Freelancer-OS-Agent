@@ -1,3 +1,5 @@
+![Freelancer OS Agent](banner.png)
+
 # Freelancer-OS-Agent
 
 ### A Notion Custom Agent that builds your entire client workspace from a single sentence
